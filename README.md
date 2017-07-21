@@ -1,0 +1,2 @@
+# MiniMips_div_20cycle
+这是一个20周期的除法器的vivado具体实现
